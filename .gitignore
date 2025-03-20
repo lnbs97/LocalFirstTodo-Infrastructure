@@ -1,0 +1,12 @@
+dev.tfvars
+prod.tfvars
+*.tfstate
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+terraform.tfvars
+*.auto.tfvars
+.idea/
+crash.log
+*.log
+builds/
